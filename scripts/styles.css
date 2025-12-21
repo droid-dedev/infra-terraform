@@ -1,0 +1,48 @@
+.infra-terraform-app {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.infra-terraform-app .header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.infra-terraform-app .header h1 {
+  margin: 0;
+}
+
+.infra-terraform-app .content {
+  padding: 20px;
+}
+
+.infra-terraform-app .content ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.infra-terraform-app .content li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.infra-terraform-app .content li:last-child {
+  border-bottom: none;
+}
+
+.infra-terraform-app .footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  clear: both;
+}
